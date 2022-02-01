@@ -1,15 +1,48 @@
-body{
-background-color:black
+h1{
+    font-family: 'Space Mono', monospace;
+    color:rgb(116, 0, 0);
+  
 }
 
-/*.giphy{
-    : 600px;
-}*/
 
-#image{
-    position:relative;
-    left:250px;
-    height:150px;
-    width: 100px;
+
+body{
     
+    background-image: url('assets/photo-1542106240-48400a38179f.jpg');
+}
+
+p{
+    position: relative;
+    left:740px
+}
+
+.jumbotron{
+    text-align: center;
+    background-color: transparent;
+}
+
+
+.display-4{
+    margin:auto
+}
+img{
+    width:30%;
+}
+.mt-0{
+    left: 200px;
+}
+
+.media{
+    background-color: rgb(80, 76, 76);
+}
+h5{
+    font-family: 'Space Mono', monospace;
+    color:rgb(41, 34, 105);
+    font-size: 24pt;
+  
+}
+p{
+    font-family: 'Space Mono', monospace;
+    color:rgb(189, 139, 139);
+    left:0px
 }
